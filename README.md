@@ -36,7 +36,7 @@ The model is trained on the DRIVE dataset. Due to the small size of the original
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/your-username/retina-segmentation.git
+git clone https://github.com/nadaKhalid13/Retina-Blood-Vessel-Segmentation-using-U-Net.git
 cd retina-segmentation
 ```
 
