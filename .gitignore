@@ -1,0 +1,15 @@
+# Ignore Virtual Environment
+my_unet_env/
+venv/
+env/
+__pycache__/
+*.pyc
+
+# Ignore Datasets 
+# DRIVE/
+# new_data/
+
+# Ignore Results and Saved Models
+# results/
+files/
+.ipynb_checkpoints/
